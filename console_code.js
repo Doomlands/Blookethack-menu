@@ -1339,4 +1339,4 @@ setInterval(() =>
 {
 	CheckGame();
 }, 10000);
-window.alert("Gsnipe1blookethacks");
+window.alert("Please follow and star Gsnipe1blookethacks. These hacks take a long time so thanks for supporting:)");

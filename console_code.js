@@ -7,7 +7,7 @@ function start()
 function loadGUI()
 {
 	var frame = document.createElement("iframe");
-	frame.id = "blooo"
+	frame.id = "Gsnipe1blookethacks"
 	frame.style.display = "none";
 	frame.style.width = "1px";
 	frame.style.height = "1px"

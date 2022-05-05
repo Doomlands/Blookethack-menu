@@ -1,4 +1,7 @@
-Go to this website for all codes and MENU for hack
+Please use this hack
+
+
+I will delete this hack soon so pls star and bookmark this one
 
 
 

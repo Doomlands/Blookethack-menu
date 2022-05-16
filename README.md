@@ -1,7 +1,9 @@
-Please use this hack
+This hack will be deleted soon so pls use the one linked below.
+They are the same hack just on a different repository.
+This hack on this repository will no longer be maintained so pls go to this linked hack below and star!
 
 
-I will delete this hack soon so pls star and bookmark this one
+Thanks,Gsnipe1
 
 
 

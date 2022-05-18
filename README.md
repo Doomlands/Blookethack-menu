@@ -1,11 +1,9 @@
-This hack will be deleted soon so pls use the one linked below.
-They are the same hack just on a different repository.
-This hack on this repository will no longer be maintained so pls go to this linked hack below and star!
+UPDATES HERE:
 
+Hey guys, this guy claimed that I stole his code and threatened me so I took down the codes. I will make new ones soon but for now try park-sauce's repos. I'm kinda upset rn because I spent more than 3 weeks on these codes. I tried to reason with him but he said he would file a lawsuit against me. I had no choice because I did not want to deal with that I am going to start from scratch abd make new codes in the coming weeks. Thanks so much for the support some of you guys have shown, it meant the world to me and I will continue to try to make the best codes possible:( Its been a really fun journey with this project and I hope to re-join the blooket hack game soon. I just wanted to give you guys one last thanks for evrything you have shown to this repo.
 
-Thanks,Gsnipe1
+Thanks so much for everything,Gsnipe1
 
+Pls check out my auto answer for duolingo here!
 
-
-
-https://github.com/Gsnipe1blookethacks/blookethack
+https://github.com/Gsnipe1blookethacks/Duolingo-hack
